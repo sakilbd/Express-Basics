@@ -1,0 +1,9 @@
+1 . npm i 
+2. tsc --int 
+3.  "rootDir": "./src/", 
+4. "outDir": "./dist",
+5. npm install -D @types/node
+6. npm install -D @types/express
+7. tsc -w   // automatically coverts ts file ot js on dist .need to run during developement.
+8 . npm run start:dev  //configured in package.json
+
